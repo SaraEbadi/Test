@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">تست</string>
+    <string name="app_slogan">ابر ابزار حقوقی</string>
+    <string name="phone_icon">آیکون موبایل</string>
+    <string name="app_logo">لوگو برنامه</string>
+    <string name="header_bg">پس زمینه</string>
+    <string name="wrong_phone_number">شماره همراه اشتباه است</string>
+    <string name="error_icon">آیکون خطا</string>
+    <string name="error_image">عکس خطا</string>
+    <string name="news">اخبار</string>
+    <string name="time">زمان</string>
+    <string name="drawer_button">search content</string>
+    <string name="cover_image">عکس اصلی</string>
+    <string name="news_text">متن خبر</string>
+    <string name="no_result_for_your_search">نتیجه‌ای برای جستجو یافت نشد</string>
+    <string name="back_button">دکمه بازگشت</string>
+    <string name="title">عنوان صفحه</string>
+    <string name="picture_of_news_or_article">عکس خبر یا مقاله</string>
+    <string name="id_not_exist">id is not provided</string>
+    <string name="no_term_provide">No term provided</string>
+    <string name="no_type_provide">No type provided</string>
+    <string name="related_detail_not_exist">Related details is not provided</string>
+    <string name="page_type_must_be_provided">Page type must be provided</string>
+</resources>
